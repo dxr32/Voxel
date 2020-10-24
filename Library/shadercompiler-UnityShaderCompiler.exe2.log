@@ -1,0 +1,5 @@
+Base path: 'E:/Downloads/GS3/Project v.2/2020.1.2f1/Editor/Data', plugins path 'E:/Downloads/GS3/Project v.2/2020.1.2f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process
