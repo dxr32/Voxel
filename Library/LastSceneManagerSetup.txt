@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Voxel.unity
+- path: Assets/Voxel Play/Demos/Demo3_SimpleFlatTerrain/Simple_Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
